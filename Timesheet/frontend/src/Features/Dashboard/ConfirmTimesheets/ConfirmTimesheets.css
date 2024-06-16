@@ -1,0 +1,17 @@
+#my-request-off .header {
+  padding: 0px 0 30px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-items: center;
+  justify-content: space-between;
+}
+
+#my-request-off .header h1 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.my-request-off-container {
+  padding-top: 30px;
+}
+
