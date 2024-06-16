@@ -9,5 +9,5 @@ Thành viên:
 ***
 Công việc thành viên
 - Đỗ Văn Thao
-    +xây dựng các dịch vụ :invoice-service,task-service,timesheet-service
+    +xây dựng các dịch vụ :invoice-service,task-service,timesheet-service\
     +xây dựng UI Dashboard && Login
